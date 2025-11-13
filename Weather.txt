@@ -2,3 +2,6 @@ Snow
 Fog
 rain
 wind
+Overcast
+Frizzle
+Drizzle
